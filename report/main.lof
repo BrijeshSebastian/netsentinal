@@ -1,0 +1,21 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces System Architecture}}{16}{}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Use Case Diagram}}{17}{}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Data Flow Diagram - Level 0 (Context Level)}}{18}{}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Data Flow Diagram - Level 1 (User / Analyst Flow)}}{19}{}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Data Flow Diagram - Level 1 (Administrator Flow)}}{20}{}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Relational Database Schema Diagram}}{21}{}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Standard User Dashboard with Real-Time Telemetry}}{37}{}%
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Administrator Operations Dashboard with Capture Controls}}{37}{}%
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Live Traffic Explorer with Protocol Filters}}{38}{}%
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Incident Investigation Drawer with Hex Payload Preview}}{38}{}%
+\contentsline {figure}{\numberline {7.5}{\ignorespaces Security Alerts Management and Triage View}}{39}{}%
+\contentsline {figure}{\numberline {7.6}{\ignorespaces Discovered Network Devices Inventory with Risk Scores}}{39}{}%
+\contentsline {figure}{\numberline {7.7}{\ignorespaces Detection Rules Configuration and Sensitivity Tuning}}{39}{}%
+\addvspace {10\p@ }
